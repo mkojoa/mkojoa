@@ -1,9 +1,10 @@
 ### Welcome to my GitHub profile! 👋
 
 - 🔭  Check out what I'm currently working on 
- knoxite/website - knoxite.com (2 months ago) knoxite/knoxite 
- A data storage & backup system (2 months ago)
- ma-hartma/slowmac - (2 months ago)
+- [x] knoxite/website - knoxite.com (2 months ago) 
+- [] knoxite/knoxite  - A data storage & backup system (2 months ago)
+- [] ma-hartma/slowmac - (2 months ago)
+
 - 🌱 I’m currently learning Microservice using DDD & Event sourcing.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
