@@ -8,6 +8,9 @@
 
  🌱 I’m currently learning
  
+  - C# Advance Generic
+  - Design Patterns: Mediator in C#
+  - Advance EfCore
   - Microservice using DDD & Event sourcing.
   
  👯 I’m looking to collaborate on ...
