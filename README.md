@@ -4,7 +4,7 @@
   
    - meltecksolution/website - www.meltecksolution.com (1 months ago) 
    - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (1 months ago)
-   - mkojoa/EasyCloud - Easy .NET Library (swagger congif, Logging, Filters, cqrs support, cache etc...)  (1 week ago)
+   - mkojoa/EasySharp - Easy .NET Library (swagger congif, Logging, Filters, cqrs support, cache etc...)  (1 week ago)
 
  🌱 I’m currently learning
  
