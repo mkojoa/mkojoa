@@ -24,7 +24,6 @@
    - Facebook: https://web.facebook.com/mkojoa/
    - Twitter: https://twitter.com/mkojoa
    - Email : michaelameyaw7@gmail.com / meltecksolution@gmail.com
-   - Wondering, how to get your own self-generating profile page? Check out mkojoa's awesome readme-scribe!
  
  😄 Pronouns:
  
