@@ -3,8 +3,8 @@
 🔭  Check out what I'm currently working on 
   
    - meltecksolution/website - www.meltecksolution.com (1 months ago) 
-   - meltecksolution/snippet  - Helper C#,PHP,SQL classes & methods (1 months ago)
-   - meltecksolution/melteck-cloud - Easy .NET Library for starters (swagger congif, Logging, Filters, etc...)  (1 week ago)
+   - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (1 months ago)
+   - mkojoa/melteck-cloud - Easy .NET Library for starters (swagger congif, Logging, Filters, etc...)  (1 week ago)
 
  🌱 I’m currently learning
  
