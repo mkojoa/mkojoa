@@ -12,10 +12,6 @@
   - Design Patterns: Mediator in C#
   - Advance EfCore
   - Microservice using DDD & Event sourcing.
-  
- 👯 I’m looking to collaborate on ...
- 
- 🤔 I’m looking for help with ...
 
  💬 Feedback
 
