@@ -10,6 +10,11 @@
    - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (1 months ago)
    - mkojoa/EasySharp - Easy .NET Library (swagger congif, Logging, Filters, cqrs support, cache etc...)  (1 week ago)
 
+  #### 𝗦𝘁𝗮𝘁𝘀
+
+![mkojo's github stats](https://github-readme-stats.vercel.app/api?username=mkojoa&show_icons=true&theme=dracula)
+
+
  🌱 I’m currently learning
  
   - C# Advance Generic
