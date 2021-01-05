@@ -2,7 +2,7 @@
 ![](https://vistr.dev/badge?repo=mkojoa&color=0058AD)
 [![](https://img.shields.io/badge/-@mkojoa-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mkojoa)
 [![](https://img.shields.io/badge/-@mkojoa-%23181717?style=flat-square&logo=github)](https://github.com/mkojoa)
-[![](https://img.shields.io/badge/-Michael%20Ameyaw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/michael-ameyaw-4a295111a/)
+[![](https://img.shields.io/badge/-Michael%20Ameyaw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-ameyaw-4a295111a/)](https://www.linkedin.com/in/michael-ameyaw-4a295111a/)
 
 🔭  Check out what I'm currently working on 
   
