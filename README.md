@@ -1,4 +1,5 @@
 ### Welcome to my GitHub profile! 👋
+![](https://vistr.dev/badge?repo=mkojoa&color=0058AD)
 
 🔭  Check out what I'm currently working on 
   
