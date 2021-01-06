@@ -28,7 +28,6 @@
     
  📫 How to reach me: 
  
-   - Medium: https://medium.com/@mkojoa
    - Facebook: https://web.facebook.com/mkojoa/
    - Twitter: https://twitter.com/mkojoa
    - Email : michaelameyaw7@gmail.com / meltecksolution@gmail.com
