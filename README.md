@@ -40,3 +40,5 @@
  ⚡ Fun fact:
  
   - Coding never dies
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkojoa&layout=compact&theme=dracula)](https://github.com/mkojoa/github-readme-stats)
