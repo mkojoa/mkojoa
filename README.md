@@ -6,7 +6,7 @@
 
 🔭  Check out what I'm currently working on 
   
-   - mkojoa/simple-logger - simple package for logging in .net apps (5 days ago) 
+   - [mkojoa/simple-logger](https://github.com/mkojoa/eazy-logger) - simple package for logging in .net apps (5 days ago) 
    - mkojoa/mnotify-xtra - Easy way to send sms (1 month ago) 
    - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (3 months ago)
    - mkojoa/EasySharp - Easy .NET Library (swagger config, Logging, Filters, cqrs support, cache etc...)  (2 months ago)
