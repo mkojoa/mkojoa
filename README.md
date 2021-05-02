@@ -7,7 +7,7 @@
 🔭  Check out what I'm currently working on 
   
    - [mkojoa/eazy-logger](https://github.com/mkojoa/eazy-logger) - simple package for logging in .net apps (1 month ago) 
-   - [mkojoa/eazy-sms](https://github.com/mkojoa/eazy-sms - Easy way to send sms (2 month ago) 
+   - [mkojoa/eazy-sms](https://github.com/mkojoa/eazy-sms) - Easy way to send sms (2 month ago) 
    - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (3 months ago)
    - https://www.cinoteck.com.ng - (4 years ago)
 
