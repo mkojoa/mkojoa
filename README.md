@@ -10,7 +10,7 @@
    - [mkojoa/eazy-sms](https://github.com/mkojoa/eazy-sms) - Easy way to send sms (3 month ago) 
    - [mkojoa/eazy-xss-wrapper](https://github.com/mkojoa/eazy-xss-wrapper) - Easy way to prevent xss attacks (3 days ago) 
    - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (3 months ago)
-   - https://www.cinoteck.com.ng - (4 years ago)
+   - https://www.cinoteck.com.ng - (1 month ago)
 
   #### 𝗦𝘁𝗮𝘁𝘀
 
