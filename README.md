@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile! 👋
+### Welcome to my GitHub profile! <img src="./wave.gif" width="30px">
 ![](https://vistr.dev/badge?repo=mkojoa&color=0058AD)
 [![](https://img.shields.io/badge/-@mkojoa-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mkojoa)
 [![](https://img.shields.io/badge/-@mkojoa-%23181717?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/8021082/mkojoa)
