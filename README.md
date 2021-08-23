@@ -6,16 +6,18 @@
 
 🔭  Check out what I'm currently working on 
   
+   - https://www.meltecksolutions.com - (2 month ago)
    - [mkojoa/eazy-logger](https://github.com/mkojoa/eazy-logger) - simple package for logging in .net apps (5 month ago) 
    - [mkojoa/eazy-sms](https://github.com/mkojoa/eazy-sms) - Easy way to send sms (3 month ago) 
    - [mkojoa/eazy-xss-wrapper](https://github.com/mkojoa/eazy-xss-wrapper) - Easy way to prevent xss attacks (3 days ago) 
    - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (3 months ago)
-   - https://www.meltecksolutions.com - (1 month ago)
+   
 
   #### 𝗦𝘁𝗮𝘁𝘀
 
-![mkojo's github stats](https://github-readme-stats.vercel.app/api?username=mkojoa&show_icons=true&theme=dracula)
-
+![mkojo's github stats](https://github-readme-stats.vercel.app/api?username=mkojoa&show_icons=true&theme=dracula) 
+<br/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mkojoa&theme=dracula" />
 
  🌱 I’m currently learning
  
@@ -41,5 +43,5 @@
  ⚡ Fun fact:
  
   - Coding never dies
-  
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkojoa&layout=compact&theme=dracula)](https://github.com/mkojoa/github-readme-stats)
