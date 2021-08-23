@@ -16,8 +16,7 @@
   #### 𝗦𝘁𝗮𝘁𝘀
 
 ![mkojo's github stats](https://github-readme-stats.vercel.app/api?username=mkojoa&show_icons=true&theme=dracula) 
-<br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mkojoa&theme=dracula" />
+
 
  🌱 I’m currently learning
  
