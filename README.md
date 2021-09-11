@@ -33,7 +33,7 @@
  
    - Facebook: https://web.facebook.com/mkojoa/
    - Twitter: https://twitter.com/mkojoa
-   - Email : michaelameyaw7@gmail.com / meltecksolution@gmail.com
+   - Email : michaelameyaw7@gmail.com
  
  😄 Pronouns:
  
