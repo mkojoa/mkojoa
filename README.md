@@ -6,11 +6,11 @@
 
 🔭  Check out what I'm currently working on 
   
-   - https://www.meltecksolutions.com - (2 month ago)
+   - https://www.meltecksolutions.com - (4 month ago)
    - [mkojoa/eazy-logger](https://github.com/mkojoa/eazy-logger) - simple package for logging in .net apps (5 month ago) 
-   - [mkojoa/eazy-sms](https://github.com/mkojoa/eazy-sms) - Easy way to send sms (3 month ago) 
+   - [mkojoa/eazy-sms](https://github.com/mkojoa/eazy-sms) - Easy way to send sms (4 month ago) 
    - [mkojoa/eazy-xss-wrapper](https://github.com/mkojoa/eazy-xss-wrapper) - Easy way to prevent xss attacks (3 days ago) 
-   - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (3 months ago)
+   - mkojoa/snippet  - Helper C#,PHP,SQL classes & methods (9 months ago)
    
 
   #### 𝗦𝘁𝗮𝘁𝘀
@@ -20,8 +20,7 @@
 
  🌱 I’m currently learning
  
-  - C# Advance Generic
-  - Design Patterns: Mediator in C#
+  - Design Patterns
   - Advance EfCore
   - Microservice using DDD & Event sourcing.
 
