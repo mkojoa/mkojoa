@@ -20,9 +20,7 @@
 
  🌱 I’m currently learning
  
-  - Design Patterns
-  - Advance EfCore
-  - Microservice using DDD & Event sourcing.
+  - Everything
 
  💬 Feedback
 
